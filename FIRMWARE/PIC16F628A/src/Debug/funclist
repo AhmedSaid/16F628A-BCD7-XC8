@@ -1,8 +1,0 @@
-__stringtab: STRING, 1 0 6
-_setBCDCharacterNumber: CODE, 1893 0 153
-_main: CODE, 1822 0 71
-__initialization: CODE, 2046 0 0
-_getBCDByteBitForNumber: CODE, 1770 0 52
-_SEGMENT_MAP: STRING, 7 0 140
-___wmul: CODE, 1735 0 35
-Total: 457
